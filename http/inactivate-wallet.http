@@ -1,0 +1,4 @@
+//POST /<service>/<EntitySet>(ID='<guid>',IsActiveEntity=false)/draftEdit
+
+POST http://localhost:4004/odata/v4/wallets/Wallets(ID='c3e504b6-8026-4695-adfa-f6773ba79a41',IsActiveEntity=true)/draftEdit
+Content-Type: application/json

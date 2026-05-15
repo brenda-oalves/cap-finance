@@ -1,0 +1,3 @@
+//POST /<service>/<EntitySet>(ID='<guid>',IsActiveEntity=false)/draftActivate
+
+POST http://localhost:4004/odata/v4/wallets/Wallets(ID='ae58d456-be36-475a-bd7d-74a7eca422ee',IsActiveEntity=false)/draftActivate
