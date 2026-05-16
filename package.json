@@ -2,5 +2,11 @@
   "dependencies": {
     "@cap-js/postgres": "^2.3.0",
     "@sap/cds": "^9.9.1"
-  }
+  },
+  "sapux": [
+    "app/app-categories",
+    "app/app-wallets",
+    "app/app-movements-types",
+    "app/app-movements"
+  ]
 }
